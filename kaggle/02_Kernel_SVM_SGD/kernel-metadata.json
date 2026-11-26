@@ -1,0 +1,15 @@
+{
+  "id": "yousifotoom12/assignment-4-02-sgd-kernel-svm",
+  "title": "Assignment 4 - 02 SGD Kernel SVM",
+  "code_file": "02_Kernel_SVM_SGD.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "uciml/human-activity-recognition-with-smartphones"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
