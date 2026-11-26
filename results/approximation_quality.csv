@@ -1,0 +1,9 @@
+method,dimension,rel_frobenius_error
+Nystroem,250,0.19088166102250975
+Random Fourier Features,250,0.3480548864129244
+Nystroem,500,0.16335082518993924
+Random Fourier Features,500,0.24801672027365196
+Nystroem,1000,0.14144723062536282
+Random Fourier Features,1000,0.17819022832916584
+Nystroem,2000,0.12283548031426461
+Random Fourier Features,2000,0.1265303672072729

@@ -1,0 +1,9 @@
+{
+  "linear_svm": {
+    "lam": 0.1,
+    "lr": 0.001
+  },
+  "svc_C": 10.0,
+  "kernel_svm_optimizer": "Adam",
+  "kernel_svm_lr": 0.003
+}
